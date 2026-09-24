@@ -1,8 +1,8 @@
-# Jan Samadhan – Grievance Redressal System
+# Smart Grievance Redressal System
 
 ## Overview
 
-**Jan Samadhan** is an AI-assisted grievance redressal platform designed to make the process of submitting, classifying, and managing citizen complaints more efficient.
+**Smart Grievance Redressal System** is an AI-assisted grievance redressal platform designed to make the process of submitting, classifying, and managing citizen complaints more efficient.
 
 The system allows users to submit their grievances through a web interface. The submitted complaint can then be analyzed and classified according to its category, priority, and other relevant attributes. An admin portal is provided to help authorities view and manage submitted grievances.
 
@@ -71,7 +71,7 @@ The application consists of three major components:
                                   │ Admin Portal │
                                   └──────────────┘
 
-jan-samadhan-grievance-system/
+Smart Grievance Redressal System/
 │
 ├── Frontend_new/
 │   └── User-facing web application
